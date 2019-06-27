@@ -1,9 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+          <? include 'head.php' ?>
     <style>
       body{
 background-color: #ee4540;
